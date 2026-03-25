@@ -1,6 +1,6 @@
 # JavaScript-Project-1
 
-I creted a profile in https://edabit.com/
+I created a profile in https://edabit.com/
 
 Here is the link to my profile https://edabit.com/user/v2e8cE4n9XhF2xhDm
 
